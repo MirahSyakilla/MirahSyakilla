@@ -59,9 +59,9 @@ Senior System Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 &nbsp; Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vip3rLi0n&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MirahSyakilla&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vip3rLi0n&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirahSyakilla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
